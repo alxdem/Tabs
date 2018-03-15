@@ -1,0 +1,26 @@
+.dingo-tabs-toggle{
+  padding: 0;
+  margin: 0;
+}
+
+.dingo-tabs-toggle li{
+  list-style: none;
+}
+
+.dingo-tabs-content{
+  padding: 0;
+  margin: 0;
+}
+
+.dingo-tabs-item{
+  list-style: none;
+  display: none;
+}
+
+.dingo-tabs-item.active{
+  display: block;
+}
+
+.dingo-tabs-toggle button{
+  cursor: pointer;
+}
